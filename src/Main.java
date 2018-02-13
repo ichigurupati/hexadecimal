@@ -5,6 +5,8 @@ import java.util.Scanner;
 
             //creates variables and scanner
             Scanner scan = new Scanner(System.in);
+
+            //variables
             int i = 0, stringLength;
             long decimal = 0;
             String userHex;
